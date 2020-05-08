@@ -1,0 +1,2 @@
+# Python_for_Automated_Testing
+基于Python语言的自动化测试，包括但不限于接口自动化、web自动化、APP自动化等。此项目将记录从初始学习状态开始，到完整的项目结束。
